@@ -26,7 +26,7 @@ export interface Project {
   title: string
   stack: string
   product?: string
-  github: string
+  github?: string
 }
 
 export interface Stack {

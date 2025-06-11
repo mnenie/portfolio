@@ -26,6 +26,10 @@ export const contributions: Contribution[] = [
     site: 'https://sli.dev/',
   },
   {
+    img: '/contributions/unjs.png',
+    site: 'https://unjs.io/',
+  },
+  {
     img: '/contributions/shadcn-vue.png',
     site: 'https://www.shadcn-vue.com/',
   },

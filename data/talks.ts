@@ -9,4 +9,8 @@ export const talks: Talk[] = [
     img: '/talks/december2024.png',
     site: 'https://github.com/mnenie/talks',
   },
+  {
+    img: '/talks/may2025.png',
+    site: 'https://github.com/mnenie/talks',
+  },
 ]

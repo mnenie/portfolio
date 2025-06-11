@@ -4,9 +4,8 @@ export const projects: Project[] = [
   {
     img: '/projects/jenda.png',
     title: 'Jenda is a cloud-based program for efficient collaborative and individual project management',
-    stack: '#vue3, #typescript, #pinia, #vueuse, #vitest, #i18n, #scss, #fsd, #ci/cd, #husky, #startup',
-    product: 'https://jenda.vercel.app/',
-    github: 'https://github.com/mnenie/jenda',
+    stack: '#vue3, #typescript, #pinia-colada, #unplugin, #vueuse, #vitest, #i18n, #unocss, #ci/cd, #husky',
+    product: 'https://jenda.ru',
   },
   {
     img: '/projects/notium.png',
@@ -23,11 +22,11 @@ export const projects: Project[] = [
     github: 'https://github.com/mnenie/xpiler',
   },
   {
-    img: '/projects/kugoo.png',
-    title: 'Eccomerce for selling electric scooters Kugoo-Russia',
-    stack: '#freelance, #vue3, #typescript, #pinia, #scss, #firebase, #stripe',
-    product: 'https://kugoo-ffd41.web.app/',
-    github: 'https://github.com/mnenie/Kugoo',
+    img: '/projects/boardify.png',
+    title: 'Boardify - virtual whiteboard for collaborative solutions',
+    stack: '#nuxt3, #typescript, #pinia, #tailwind, #shadcn #appwrite, #socket.io',
+    product: 'https://boardify-whiteboard.vercel.app/',
+    github: 'https://github.com/mnenie/Boardify',
   },
   {
     img: '/projects/fluxo.png',
@@ -37,11 +36,11 @@ export const projects: Project[] = [
     github: 'https://github.com/mnenie/mirea-fluxo',
   },
   {
-    img: '/projects/boardify.png',
-    title: 'Boardify - virtual whiteboard for collaborative solutions',
-    stack: '#nuxt3, #typescript, #pinia, #tailwind, #shadcn #appwrite, #socket.io',
-    product: 'https://boardify-whiteboard.vercel.app/',
-    github: 'https://github.com/mnenie/Boardify',
+    img: '/projects/kugoo.png',
+    title: 'Eccomerce for selling electric scooters Kugoo-Russia',
+    stack: '#freelance, #vue3, #typescript, #pinia, #scss, #firebase, #stripe',
+    product: 'https://kugoo-ffd41.web.app/',
+    github: 'https://github.com/mnenie/Kugoo',
   },
   {
     img: '/projects/reksoft.png',
