@@ -2,7 +2,7 @@ import type { Project } from '~/types'
 
 export const projects: Project[] = [
   {
-    img: '/projects/jenda.png',
+    img: '/projects/jendalabs.png',
     title: 'Jenda is a cloud-based program for efficient collaborative and individual project management',
     stack: '#vue3, #typescript, #pinia-colada, #unplugin, #vueuse, #vitest, #i18n, #unocss, #ci/cd, #husky',
     product: 'https://jenda.ru',
